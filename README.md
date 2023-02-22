@@ -11,7 +11,7 @@
 	```
 * USAGE
 	```zsh
-	python3 file_converter.py input_file output_file
+	python3 file_converter.py markdown input_file output_file
 	```
 <br />
 

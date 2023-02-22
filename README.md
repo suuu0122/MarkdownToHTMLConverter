@@ -1,7 +1,7 @@
 # MarkdownToHTMLConverter
 
 ## Overview
-.mdファイルを.htmlファイルに変換するスクリプトです。コンピュータサイエンス学習サービス(Recursion)[https://recursionist.io/]のアウトプットプロジェクト（File Manipulator Program）として取り組みました。
+.mdファイルを.htmlファイルに変換するスクリプトです。コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（File Manipulator Program）として取り組みました。
 <br />
 
 ## USAGE
